@@ -1,0 +1,7 @@
+{
+"cmd" : ["cd","${file_path}","&&","scalac","${file}","&&","scala","-cp",".","${file_base_name}"],
+"working_dir": "${file_path}",
+"selector": "source.scala",
+"path": "Path of scala bim directory",
+"target":"console_exec"
+}

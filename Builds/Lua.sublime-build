@@ -1,0 +1,5 @@
+{
+"cmd": ["lua","$file"],
+"path":"Path to lua directory",
+"target": "console_exec"
+}

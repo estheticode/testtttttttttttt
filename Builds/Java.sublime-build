@@ -1,0 +1,5 @@
+{
+"cmd": ["javac", "$file_name","&&","java","$file_name"],
+"path":"Path of JDK",
+"target":"console_exec"
+}

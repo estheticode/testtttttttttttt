@@ -1,0 +1,7 @@
+{
+"cmd":["Path of python exe file, Example: C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python38\\Python.exe", "-u", "$file"],
+ "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+ "selector": "source.python",
+  "target":"console_exec"
+
+}

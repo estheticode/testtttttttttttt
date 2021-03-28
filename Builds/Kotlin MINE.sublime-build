@@ -1,0 +1,7 @@
+{
+"cmd": ["kotlinc", "${file}","&&","cls","&&", "kotlin", "${file_base_name}.jar"],
+"selector" : "source.kotlin",
+"path": "Path of Kotlin compiler",
+"target":"console_exec"
+}
+

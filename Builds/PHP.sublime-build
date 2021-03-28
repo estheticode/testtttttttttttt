@@ -1,0 +1,7 @@
+{
+    "cmd": ["Path of php.exe, ex: C:\\php\\php.exe", "$file"],
+    "file_regex": "php$",
+    "selector": "source.php",
+	"target":"console_exec"
+
+}

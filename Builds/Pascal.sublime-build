@@ -1,0 +1,6 @@
+{
+"cmd": ["fpc","$file","&&","cls","&&","${file_base_name}.exe"],
+"path":"Path of pascal bin directory",
+"selector": "source.pascal",
+"target": "console_exec"
+}

@@ -1,0 +1,6 @@
+{
+	"cmd": ["Path of installed node.exe file, ex:C:\\Program Files\\nodejs\\node.exe", "$file"],
+ 	"selector": "source.js",
+    "target":"console_exec"
+
+}

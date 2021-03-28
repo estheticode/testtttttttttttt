@@ -1,0 +1,6 @@
+{
+"cmd": ["nim","c","--verbosity:0","--hints:off","-r","$file"],
+"path":"Path of bin of nim directory",
+"selector": "source.nim",
+"target": "console_exec"
+}

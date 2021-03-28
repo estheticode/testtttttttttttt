@@ -1,0 +1,6 @@
+{
+"cmd": ["ruby","$file"],
+"path":"Path of ruby bin directory",
+"selector": "source.ruby",
+"target": "console_exec"
+}
