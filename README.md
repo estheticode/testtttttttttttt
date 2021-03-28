@@ -18,7 +18,7 @@
 # Prerequisites
 ## Console-exec
 
-Install [Console-exec](https://packagecontrol.io/packages/Console%20Exec) using [Sublime Package Control](https://packagecontrol.io).
+Install [Console-Exec](https://packagecontrol.io/packages/Console%20Exec) using [Sublime Package Control](https://packagecontrol.io).
 
 # Create your Build-System
 
